@@ -1,0 +1,33 @@
+nom,stadium,capacity,x,y,city,state,conf,logo
+Anaheim Ducks,Honda Center,17500,33.8079,-117.8761,Anaheim,California,Western,https://upload.wikimedia.org/wikipedia/en/3/3a/Anaheim_Ducks_logo.svg
+Arizona Coyotes,Mullett Arena,5000,33.4297,-111.9323,Tempe,Arizona,Western,https://upload.wikimedia.org/wikipedia/en/2/27/Arizona_Coyotes_logo_2021.svg
+Boston Bruins,T.D. Garden,17565,42.3662,-71.0621,Boston,Massachusetts,Eastern,https://upload.wikimedia.org/wikipedia/en/1/12/Boston_Bruins.svg
+Buffalo Sabres,KeyBank Center,19199,42.875,-78.876,Buffalo,New York,Eastern,https://upload.wikimedia.org/wikipedia/en/4/41/Buffalo_Sabres_Logo.svg
+Calgary Flames,Scotiabank Saddledome,19289,51.0374,-114.0514,Calgary,Alberta,Western,https://upload.wikimedia.org/wikipedia/en/6/61/Calgary_Flames_Logo_2020.svg
+Carolina Hurricanes,PNC Arena,18580,35.8033,-78.7218,Raleigh,North Carolina,Eastern,https://upload.wikimedia.org/wikipedia/en/3/32/Carolina_Hurricanes_logo.svg
+Chicago Blackhawks,United Center,19717,41.8807,-87.6742,Chicago,Illinois,Western,https://upload.wikimedia.org/wikipedia/en/6/60/Chicago_Blackhawks_logo.svg
+Colorado Avalanche,Ball Arena,18007,39.7487,-105.0077,Denver,Colorado,Western,https://upload.wikimedia.org/wikipedia/en/4/45/Colorado_Avalanche_logo.svg
+Columbus Blue Jackets,Nationwide Arena,18644,39.9694,-83.0061,Columbus,Ohio,Eastern,https://upload.wikimedia.org/wikipedia/en/3/3a/Columbus_Blue_Jackets_logo.svg
+Dallas Stars,American Airlines Center,18532,32.7905,-96.8103,Dallas,Texas,Western,https://upload.wikimedia.org/wikipedia/en/6/67/Dallas_Stars_logo.svg
+Detroit Red Wings,Little Caesars Arena,20066,42.3410,-83.0552,Detroit,Michigan,Eastern,https://upload.wikimedia.org/wikipedia/en/e/e0/Detroit_Red_Wings_logo.svg
+Edmonton Oilers,Rogers Place,18347,53.5462,-113.4978,Edmonton,Alberta,Western,https://upload.wikimedia.org/wikipedia/en/4/4e/Edmonton_Oilers_logo.svg
+Florida Panthers,Amerant Bank Arena,19500,26.1584,-80.3258,Sunrise,Florida,Eastern,https://upload.wikimedia.org/wikipedia/en/5/5d/Florida_Panthers_logo_2016.svg
+Los Angeles Kings,Crypto.com Arena,18997,34.0430,-118.2673,Los Angeles,California,Western,https://upload.wikimedia.org/wikipedia/en/c/c5/Los_Angeles_Kings_logo.svg
+Minnesota Wild,Xcel Energy Center,17954,44.9447,-93.1011,Saint Paul,Minnesota,Western,https://upload.wikimedia.org/wikipedia/en/1/1b/Minnesota_Wild_logo.svg
+Montreal Canadiens,Bell Centre,21302,45.496,-73.5693,Montreal,Quebec,Eastern,https://upload.wikimedia.org/wikipedia/en/6/69/Montreal_Canadiens_logo.svg
+Nashville Predators,Bridgestone Arena,17359,36.1592,-86.7786,Nashville,Tennessee,Western,https://upload.wikimedia.org/wikipedia/en/9/9e/Nashville_Predators_Logo_2011.svg
+New Jersey Devils,Prudential Center,16514,40.7337,-74.1700,Newark,New Jersey,Eastern,https://upload.wikimedia.org/wikipedia/en/9/9f/New_Jersey_Devils_logo.svg
+New York Islanders,UBS Arena,17500,40.7216,-73.7267,Elmont,New York,Eastern,https://upload.wikimedia.org/wikipedia/en/4/42/Logo_New_York_Islanders.svg
+New York Rangers,Madison Square Garden,18006,40.7505,-73.9934,New York,New York,Eastern,https://upload.wikimedia.org/wikipedia/en/1/1e/New_York_Rangers.svg
+Ottawa Senators,Canadian Tire Centre,18300,45.2965,-75.9277,Ottawa,Ontario,Eastern,https://upload.wikimedia.org/wikipedia/en/d/d4/Ottawa_Senators_logo_2020.svg
+Philadelphia Flyers,Wells Fargo Center,19500,39.9012,-75.1719,Philadelphia,Pennsylvania,Eastern,https://upload.wikimedia.org/wikipedia/en/d/db/Philadelphia_Flyers_logo.svg
+Pittsburgh Penguins,PPG Paints Arena,18387,40.4399,-79.9893,Pittsburgh,Pennsylvania,Eastern,https://upload.wikimedia.org/wikipedia/en/2/24/Pittsburgh_Penguins_logo.svg
+San Jose Sharks,SAP Center,17496,37.3328,-121.9012,San Jose,California,Western,https://upload.wikimedia.org/wikipedia/en/3/37/San_Jose_Sharks_logo.svg
+Seattle Kraken,Climate Pledge Arena,17459,47.6228,-122.3545,Seattle,Washington,Western,https://upload.wikimedia.org/wikipedia/en/3/3a/Seattle_Kraken_logo.svg
+St. Louis Blues,Enterprise Center,18824,38.6268,-90.2026,St. Louis,Missouri,Western,https://upload.wikimedia.org/wikipedia/en/4/42/St_Louis_Blues_logo.svg
+Tampa Bay Lightning,Amalie Arena,19192,27.9427,-82.4517,Tampa,Florida,Eastern,https://upload.wikimedia.org/wikipedia/en/6/66/Tampa_Bay_Lightning_Logo_2011.svg
+Toronto Maple Leafs,Scotiabank Arena,19800,43.6435,-79.3791,Toronto,Ontario,Eastern,https://upload.wikimedia.org/wikipedia/en/9/9f/Toronto_Maple_Leafs_logo_2016.svg
+Vancouver Canucks,Rogers Arena,18910,49.2779,-123.1080,Vancouver,British Columbia,Western,https://upload.wikimedia.org/wikipedia/en/3/3a/Vancouver_Canucks_logo.svg
+Vegas Golden Knights,T-Mobile Arena,17800,36.1025,-115.1782,Paradise,Nevada,Western,https://upload.wikimedia.org/wikipedia/en/a/ac/Vegas_Golden_Knights_logo.svg
+Washington Capitals,Capital One Arena,18573,38.8981,-77.0209,Washington,District of Columbia,Eastern,https://upload.wikimedia.org/wikipedia/en/8/87/Washington_Capitals_logo.svg
+Winnipeg Jets,Canada Life Centre,15121,49.8926,-97.1435,Winnipeg,Manitoba,Western,https://upload.wikimedia.org/wikipedia/en/9/93/Winnipeg_Jets_Logo_2011.svg
